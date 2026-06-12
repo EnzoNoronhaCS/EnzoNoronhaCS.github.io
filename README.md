@@ -1,6 +1,6 @@
 <div align="center">
 
- 👋 Bem Vindo! Eu sou Enzo Noronha
+👋 Bem Vindo! Eu sou Enzo Noronha
 
 Desenvolvedor em Formação | Apaixonado por Programação e Tecnologia
 

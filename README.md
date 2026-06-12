@@ -1,12 +1,8 @@
 <div align="center">
 
-# 👋 Bem Vindo! Eu sou Enzo Noronha
+ 👋 Bem Vindo! Eu sou Enzo Noronha
 
-**Desenvolvedor em Formação | Apaixonado por Programação e Tecnologia**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+Desenvolvedor em Formação | Apaixonado por Programação e Tecnologia
 
 </div>
 
@@ -29,9 +25,7 @@ Olá! Sou um desenvolvedor em formação, apaixonado por programação e tecnolo
 
 <div align="center">
 
-| C | Java | Python |
-|---|------|--------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| C | Java | Python | HTML |
 
 </div>
 
@@ -131,9 +125,9 @@ Sinta-se à vontade para entrar em contato comigo através dos canais abaixo. Es
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-noronha-397a703b4/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnzoNoronhaCS)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzonoronhacs@gmail.com)
+LinkedIn: https://www.linkedin.com/in/enzo-noronha-397a703b4/
+GitHub: https://github.com/EnzoNoronhaCS
+Email: enzonoronhacs@gmail.com
 
 </div>
 
@@ -141,9 +135,7 @@ Sinta-se à vontade para entrar em contato comigo através dos canais abaixo. Es
 
 <div align="center">
 
-### 🌟 Obrigado por visitar meu perfil!
-
-**© 2026 Enzo Noronha. Todos os direitos reservados.**
+ 🌟 Obrigado por visitar meu perfil!
 
 
 </div>

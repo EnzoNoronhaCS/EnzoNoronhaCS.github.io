@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Bem Vindo! Eu sou Enzo Noronha
+ Bem Vindo! Eu sou Enzo Noronha
 
 Desenvolvedor em Formação | Apaixonado por Programação e Tecnologia
 
@@ -8,11 +8,11 @@ Desenvolvedor em Formação | Apaixonado por Programação e Tecnologia
 
 ---
 
-## 🎯 Sobre Mim
+##  Sobre Mim
 
 Olá! Sou um desenvolvedor em formação, apaixonado por programação e tecnologia. Estou em uma jornada contínua de aprendizado e crescimento profissional.
 
-### ✨ Destaques
+###  Destaques
 
 - **🌍 Idiomas**: Falo inglês em nível avançado
 - **🎓 Educação**: Cursando Análise e Desenvolvimento de Sistemas (CEUB)
@@ -21,11 +21,11 @@ Olá! Sou um desenvolvedor em formação, apaixonado por programação e tecnolo
 
 ---
 
-## 🛠️ Foco nas Principais Linguagens
+##  Foco nas Principais Linguagens
 
 <div align="center">
 
-| C | Java | Python | HTML |
+| C++ | Java | Python | C# | SQL |
 
 </div>
 
@@ -33,59 +33,55 @@ Olá! Sou um desenvolvedor em formação, apaixonado por programação e tecnolo
 
 ## 📚 Meus Projetos
 
-### 1. 🐍 Análise de Dados com Python
+### 1.  Análise de Dados com Python
 **Descrição:** Sistema de análise e visualização de dados acadêmicos usando Pandas e Matplotlib.
 
 **Tecnologias:** `Python` `Pandas` `Matplotlib`
 
-**Status:** ✅ Concluído
 
 ---
 
-### 2. 🔗 Estrutura de Dados em C
+### 2.  Estrutura de Dados em C
 **Descrição:** Implementação de estruturas de dados fundamentais: listas, árvores e grafos.
 
 **Tecnologias:** `C` `Algoritmos` `Estruturas de Dados`
 
-**Status:** ✅ Concluído
 
 ---
 
-### 3. ☕ Aplicação Web em Java
+### 3.  Aplicação Web em Java
 **Descrição:** Sistema de gerenciamento de projetos com Spring Boot e banco de dados relacional.
 
 **Tecnologias:** `Java` `Spring Boot` `SQL`
 
-**Status:** ✅ Concluído
 
 ---
 
-### 4. 🌐 Website Responsivo
+### 4.  Website Responsivo
 **Descrição:** Site portfólio com design responsivo e otimizado para SEO.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-**Status:** ✅ Concluído
 
 ---
 
 ## 💡 Habilidades & Conhecimentos
 
-### 📝 Linguagens de Programação
+###  Linguagens de Programação
 - C
 - Java
 - Python
 - JavaScript
 - HTML/CSS
 
-### 🔧 Ferramentas & Tecnologias
+###  Ferramentas & Tecnologias
 - Git & GitHub
 - VS Code
 - Spring Boot
 - MySQL
 - Visual Studio
 
-### 🎯 Conceitos & Metodologias
+###  Conceitos & Metodologias
 - Programação Orientada a Objetos (OOP)
 - Estruturas de Dados
 - Algoritmos
@@ -94,7 +90,7 @@ Olá! Sou um desenvolvedor em formação, apaixonado por programação e tecnolo
 
 ---
 
-## 🚀 Caminho Construído
+##  Caminho Construído
 
 ```
 📚 Educação Formal
@@ -119,7 +115,7 @@ Olá! Sou um desenvolvedor em formação, apaixonado por programação e tecnolo
 
 ---
 
-## 💬 Vamos Conectar!
+##  Formas de contato.
 
 Sinta-se à vontade para entrar em contato comigo através dos canais abaixo. Estou sempre aberto a novas oportunidades e conversas interessantes.
 
@@ -135,7 +131,7 @@ Email: enzonoronhacs@gmail.com
 
 <div align="center">
 
- 🌟 Obrigado por visitar meu perfil!
+  Obrigado por visitar meu perfil!
 
 
 </div>
